@@ -1,5 +1,5 @@
 celery[redis]
-django-allauth==0.19.1
+django-allauth==0.30.0
 django-bootstrap-form
 django-braces
 django-debug-toolbar
