@@ -5,7 +5,7 @@ django-braces
 django-debug-toolbar
 django-extensions
 django-jsonfield
-django<1.8
+django<4.2.21
 dnspython
 gunicorn
 huey
